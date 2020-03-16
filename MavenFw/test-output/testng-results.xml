@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="4" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="44042" started-at="2020-03-13T17:59:00Z" finished-at="2020-03-13T17:59:44Z">
+    <groups>
+    </groups>
+    <test name="methods" duration-ms="44042" started-at="2020-03-13T17:59:00Z" finished-at="2020-03-13T17:59:44Z">
+      <class name="com.vtiger.TestScripts.LastViewedListInVendors">
+        <test-method status="PASS" signature="ConfigBS()[pri:0, instance:com.vtiger.TestScripts.LastViewedListInVendors@343f4d3d]" name="ConfigBS" is-config="true" duration-ms="8" started-at="2020-03-13T17:59:00Z" finished-at="2020-03-13T17:59:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigBS -->
+        <test-method status="PASS" signature="configBC()[pri:0, instance:com.vtiger.TestScripts.LastViewedListInVendors@343f4d3d]" name="configBC" is-config="true" duration-ms="10429" started-at="2020-03-13T17:59:00Z" finished-at="2020-03-13T17:59:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.vtiger.TestScripts.LastViewedListInVendors@343f4d3d]" name="configBM" is-config="true" duration-ms="3308" started-at="2020-03-13T17:59:11Z" finished-at="2020-03-13T17:59:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="LastViewedListInVendors1()[pri:0, instance:com.vtiger.TestScripts.LastViewedListInVendors@343f4d3d]" name="LastViewedListInVendors1" duration-ms="4317" started-at="2020-03-13T17:59:14Z" finished-at="2020-03-13T17:59:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LastViewedListInVendors1 -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.vtiger.TestScripts.LastViewedListInVendors@343f4d3d]" name="configAM" is-config="true" duration-ms="1311" started-at="2020-03-13T17:59:18Z" finished-at="2020-03-13T17:59:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configAC()[pri:0, instance:com.vtiger.TestScripts.LastViewedListInVendors@343f4d3d]" name="configAC" is-config="true" duration-ms="690" started-at="2020-03-13T17:59:20Z" finished-at="2020-03-13T17:59:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method status="PASS" signature="configAS()[pri:0, instance:com.vtiger.TestScripts.LastViewedListInVendors@343f4d3d]" name="configAS" is-config="true" duration-ms="0" started-at="2020-03-13T17:59:44Z" finished-at="2020-03-13T17:59:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- com.vtiger.TestScripts.LastViewedListInVendors -->
+      <class name="com.vtiger.TestScripts.CreateCampTest">
+        <test-method status="PASS" signature="configBC()[pri:0, instance:com.vtiger.TestScripts.CreateCampTest@53b32d7]" name="configBC" is-config="true" duration-ms="9668" started-at="2020-03-13T17:59:20Z" finished-at="2020-03-13T17:59:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.vtiger.TestScripts.CreateCampTest@53b32d7]" name="configBM" is-config="true" duration-ms="3645" started-at="2020-03-13T17:59:30Z" finished-at="2020-03-13T17:59:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="createCamp()[pri:0, instance:com.vtiger.TestScripts.CreateCampTest@53b32d7]" name="createCamp" duration-ms="8629" started-at="2020-03-13T17:59:34Z" finished-at="2020-03-13T17:59:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCamp -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.vtiger.TestScripts.CreateCampTest@53b32d7]" name="configAM" is-config="true" duration-ms="1334" started-at="2020-03-13T17:59:42Z" finished-at="2020-03-13T17:59:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configAC()[pri:0, instance:com.vtiger.TestScripts.CreateCampTest@53b32d7]" name="configAC" is-config="true" duration-ms="691" started-at="2020-03-13T17:59:44Z" finished-at="2020-03-13T17:59:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- com.vtiger.TestScripts.CreateCampTest -->
+    </test> <!-- methods -->
+  </suite> <!-- Suite -->
+</testng-results>
